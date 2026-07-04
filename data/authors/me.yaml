@@ -2,84 +2,90 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: BigJck
-  given: BigJck
-  family: ''
+  display: Xingda Li
+  given: Xingda
+  family: Li
   alternate: ''
   pronunciation: ''
   pronouns: ''
 postnominals: []
 status:
   icon: ''
-role: PhD Student / Researcher
+role: PhD Candidate
 bio: |
-  BigJck is a researcher building an academic profile across learning,
-  cognition, behavior, and computational methods. Replace this paragraph
-  with a 100-200 word English biography describing your current position,
-  affiliation, research questions, methods, and long-term interests.
+  Xingda Li is a Ph.D. candidate in the Department of Psychological and
+  Cognitive Sciences at Tsinghua University, and is also affiliated with
+  the Tsinghua Laboratory of Brain and Intelligence. His research interests
+  lie at the intersection of educational psychology and cognitive
+  neuroscience. He studies how learners build, use, and update knowledge,
+  with an emphasis on linking behavioral learning processes to neural
+  representations during naturalistic educational experiences.
 
 affiliations:
-  - name: Your University / Lab
+  - name: Department of Psychological and Cognitive Sciences, Tsinghua University
+    url: https://www.tsinghua.edu.cn/en/
+  - name: Tsinghua Laboratory of Brain and Intelligence
     url: ''
 
 links:
   - icon: at-symbol
-    url: mailto:your.email@example.com
+    url: mailto:xd-li24@mails.tsinghua.edu.cn
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/BigJck
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Learning Science
-  - Cognitive Neuroscience
   - Educational Psychology
-  - AI for Research
+  - Cognitive Neuroscience
+  - Learning and Knowledge Construction
+  - Naturalistic Learning
 
 education:
-  - degree: PhD / Master / Bachelor, Your Field
-    institution: Your University
+  - degree: Ph.D. in Psychological and Cognitive Sciences
+    institution: Tsinghua University
     start: 2024-09-01
     end: ''
     summary: |
-      Replace with your degree, institution, dates, advisor, and thesis topic.
+      Department of Psychological and Cognitive Sciences; also affiliated
+      with the Tsinghua Laboratory of Brain and Intelligence.
     button:
       text: Download CV
       url: /uploads/resume.pdf
       icon: hero/arrow-down-tray
+  - degree: Master of Education
+    institution: Beijing Normal University
+    start: ''
+    end: ''
+    summary: |
+      Please add the program name, department, advisor, and years when available.
 
 experience:
-  - role: Research Assistant / Student Researcher
-    org: Your Lab or Department
+  - role: Ph.D. Candidate
+    org: Department of Psychological and Cognitive Sciences, Tsinghua University
     start: 2024-09-01
     summary: |
-      Replace with a concise summary of your current research work.
-    button:
-      text: View projects
-      url: /
-      icon: hero/arrow-down-tray
+      Research on educational psychology and cognitive neuroscience, with
+      a focus on learning, prior knowledge, and neural representations in
+      naturalistic educational settings.
 
 skills:
+  - name: Research Methods
+    items:
+      - label: Educational Psychology
+        level: 5
+      - label: Cognitive Neuroscience
+        level: 5
+      - label: Behavioral Data Analysis
+        level: 4
   - name: Technical Skills
     items:
       - label: Python
         level: 4
-      - label: Data Analysis
+      - label: Neuroimaging Analysis
         level: 4
       - label: Experimental Design
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 4
-      - label: Conference Presentations
-        level: 4
-      - label: Collaboration
         level: 4
 
 languages:
@@ -90,9 +96,4 @@ languages:
     level: 4
     label: Professional
 
-awards:
-  - title: Award or Scholarship
-    awarder: Institution
-    date: "2026-01-01"
-    summary: Replace with your award information, or delete this section.
-    icon: hero/trophy
+awards: []
