@@ -56,10 +56,10 @@ education:
       icon: hero/arrow-down-tray
   - degree: Master of Education
     institution: Beijing Normal University
-    start: ''
-    end: ''
+    start: 2021-09-01
+    end: 2024-06-30
     summary: |
-      Please add the program name, department, advisor, and years when available.
+      Faculty of Education.
 
 experience:
   - role: Ph.D. Candidate
